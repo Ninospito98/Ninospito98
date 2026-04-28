@@ -4,7 +4,7 @@
 
 **Web Developer** · Lifelong computer nerd · AI enthusiast
 
-*Less than a year ago I took the leap into coding — now I'm building apps, websites, and this very README. My goal is to stay ahead, keep learning, and bring the best I can to every project.*
+*Less than a year ago I took the leap into coding — now I'm building apps and websites. My goal is to stay ahead, keep learning, and bring the best I can to every project.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ninospito.com-7C6FCD?style=for-the-badge&logo=globe&logoColor=white)](https://www.ninospito.com)
 
